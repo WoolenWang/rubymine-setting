@@ -672,6 +672,7 @@
         <entry key="pytest-timeout" value="1.0.0" />
         <entry key="python" value="3.6.1" />
         <entry key="python-dateutil" value="2.6.0" />
+        <entry key="python-gflags" value="3.1.1" />
         <entry key="python-memcached" value="1.57" />
         <entry key="python-ntlm" value="1.1.0" />
         <entry key="python-sybase" value="0.40" />
@@ -1003,6 +1004,7 @@
         <entry key="smart_open" value="1.5.2" />
         <entry key="smmap2" value="2.0.1" />
         <entry key="snakeviz" value="0.4.1" />
+        <entry key="snappy" value="1.1.4" />
         <entry key="snowballstemmer" value="1.2.1" />
         <entry key="snuggs" value="1.4.0" />
         <entry key="sockjs-tornado" value="1.0.3" />
@@ -7738,6 +7740,13 @@
             </list>
           </value>
         </entry>
+        <entry key="python-gflags">
+          <value>
+            <list>
+              <option value="3.1.1" />
+            </list>
+          </value>
+        </entry>
         <entry key="python-memcached">
           <value>
             <list>
@@ -10576,6 +10585,13 @@
             </list>
           </value>
         </entry>
+        <entry key="snappy">
+          <value>
+            <list>
+              <option value="1.1.4" />
+            </list>
+          </value>
+        </entry>
         <entry key="snowballstemmer">
           <value>
             <list>
@@ -11605,6 +11621,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1493300953553" />
+    <option name="LAST_TIME_CHECKED" value="1493445195010" />
   </component>
 </application>
