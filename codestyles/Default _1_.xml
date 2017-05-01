@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code_scheme name="Default (1)">
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="8" />
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+      <option name="TAB_SIZE" value="8" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
+
