@@ -5,7 +5,6 @@
       <mapping pattern="prercovcfgsh" type="PLAIN_TEXT" />
       <mapping pattern="Test_xml.rb" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="task" type="Ruby" />
     </extensionMap>
   </component>
