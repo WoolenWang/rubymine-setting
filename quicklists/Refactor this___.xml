@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list display="Refactor this..." description="Ruby Refactorings" readonly="false">
+<list display="Refactor this..." description="Ruby Refactorings">
   <action id="RenameElement" />
   <action id="Move" />
   <action id="CopyElement" />
@@ -19,4 +18,3 @@
   <action id="MembersPullUp" />
   <action id="MemberPushDown" />
 </list>
-
