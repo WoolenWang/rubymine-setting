@@ -34,10 +34,12 @@
     </library>
     <library name="bcrypt (v3.1.11, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x86-mingw32/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x86-mingw32/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
       </SOURCES>
@@ -826,12 +828,14 @@
     </library>
     <library name="thin (v1.7.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thin-1.7.0/bin" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thin-1.7.0/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thin-1.7.0/lib" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thin-1.7.0/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thin-1.7.0/bin" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thin-1.7.0/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thin-1.7.0/lib" />
@@ -914,10 +918,12 @@
     </library>
     <library name="woolen_common (v0.0.6, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/woolen_common/0.0.6" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/woolen_common-0.0.6/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/woolen_common-0.0.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/woolen_common/0.0.6" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/woolen_common-0.0.6/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/woolen_common-0.0.6/lib" />
       </SOURCES>
