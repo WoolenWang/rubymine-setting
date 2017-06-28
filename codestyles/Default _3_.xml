@@ -1,0 +1,8 @@
+<code_scheme name="Default (3)">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
