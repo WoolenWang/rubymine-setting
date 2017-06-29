@@ -1,19 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="activemodel (v3.2.22.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/activemodel-3.2.22.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/activemodel-3.2.22.5/lib" />
-      </SOURCES>
-    </library>
     <library name="activemodel (v3.2.22.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activemodel-3.2.22.5/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activemodel-3.2.22.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activemodel-3.2.22.5/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activemodel-3.2.22.5/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v5.0.1, ruby-2.3.1-p112) [gem]">
@@ -24,20 +16,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activemodel-5.0.1/lib" />
       </SOURCES>
     </library>
-    <library name="activerecord (v3.2.22.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/activerecord-3.2.22.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/activerecord-3.2.22.5/lib" />
-      </SOURCES>
-    </library>
     <library name="activerecord (v3.2.22.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activerecord-3.2.22.5/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activerecord-3.2.22.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activerecord-3.2.22.5/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activerecord-3.2.22.5/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.0.1, ruby-2.3.1-p112) [gem]">
@@ -48,20 +32,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activerecord-5.0.1/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v3.2.22.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/activesupport-3.2.22.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/activesupport-3.2.22.5/lib" />
-      </SOURCES>
-    </library>
     <library name="activesupport (v3.2.22.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activesupport-3.2.22.5/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activesupport-3.2.22.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activesupport-3.2.22.5/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activesupport-3.2.22.5/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.0.1, ruby-2.3.1-p112) [gem]">
@@ -72,40 +48,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/activesupport-5.0.1/lib" />
       </SOURCES>
     </library>
-    <library name="addressable (v2.5.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/data" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/tasks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/data" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/addressable-2.5.0/tasks" />
-      </SOURCES>
-    </library>
-    <library name="arel (v3.0.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/arel-3.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/arel-3.0.3/lib" />
-      </SOURCES>
-    </library>
     <library name="arel (v3.0.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/arel-3.0.3/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/arel-3.0.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/arel-3.0.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="arel (v7.1.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/arel-7.1.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/arel-7.1.4/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/arel-3.0.3/lib" />
       </SOURCES>
     </library>
     <library name="arel (v7.1.4, ruby-2.3.1-p112) [gem]">
@@ -114,72 +62,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/arel-7.1.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="atk-ac-common (v0.0.5, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-ac-common-0.0.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-ac-common-0.0.5/lib" />
-      </SOURCES>
-    </library>
-    <library name="atk-ac-common-api (v0.0.5, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-ac-common-api-0.0.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-ac-common-api-0.0.5/lib" />
-      </SOURCES>
-    </library>
-    <library name="atk-generic_pc (v2.1.6, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-generic_pc-2.1.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-generic_pc-2.1.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-generic_pc-2.1.6/keywords" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-generic_pc-2.1.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-generic_pc-2.1.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atk-generic_pc-2.1.6/keywords" />
-      </SOURCES>
-    </library>
-    <library name="atm_keyword_parser (v0.0.5, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atm_keyword_parser-0.0.5/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atm_keyword_parser-0.0.5/lib" />
-      </SOURCES>
-    </library>
-    <library name="att (v2.0.8, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.8/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.8/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.8/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.8/lib" />
-      </SOURCES>
-    </library>
-    <library name="att (v2.0.9, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.9/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.9/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/att-2.0.9/lib" />
-      </SOURCES>
-    </library>
-    <library name="bcrypt (v3.1.11, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bcrypt-3.1.11-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bcrypt-3.1.11-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.11, ruby-2.3.1-p112) [gem]">
@@ -194,58 +76,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
       </SOURCES>
     </library>
-    <library name="builder (v3.0.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/builder-3.0.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/builder-3.0.4/lib" />
-      </SOURCES>
-    </library>
     <library name="builder (v3.0.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.0.4/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.0.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.0.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="builder (v3.2.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.2.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.2.2/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.2.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.2.2/rakelib" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.12.5, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.12.5/man" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.13.2, jruby-9.1.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/bin" />
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/exe" />
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/lib" />
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/bin" />
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/exe" />
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/lib" />
-        <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/bundler-1.13.2/man" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/builder-3.0.4/lib" />
       </SOURCES>
     </library>
     <library name="bundler (v1.13.2, ruby-2.3.1-p112) [gem]">
@@ -260,32 +96,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/exe" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/lib" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/bundler-1.13.2/man" />
-      </SOURCES>
-    </library>
-    <library name="bundler (v1.13.6, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/bundler-1.13.6/man" />
-      </SOURCES>
-    </library>
-    <library name="byebug (v9.0.6, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
     <library name="childprocess (v0.5.9, jruby-9.1.5.0-p0) [gem]">
@@ -324,14 +134,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/coderay-1.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="concurrent-ruby (v1.0.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/concurrent-ruby-1.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/concurrent-ruby-1.0.3/lib" />
-      </SOURCES>
-    </library>
     <library name="concurrent-ruby (v1.0.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.3/lib" />
@@ -340,54 +142,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.3/lib" />
       </SOURCES>
     </library>
-    <library name="connection_pool (v2.2.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/connection_pool-2.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/connection_pool-2.2.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="connection_pool (v2.2.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/connection_pool-2.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/connection_pool-2.2.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="cookiejar (v0.3.3, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/cookiejar-0.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/cookiejar-0.3.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="daemons (v1.2.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/daemons-1.2.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/daemons-1.2.4/lib" />
-      </SOURCES>
-    </library>
     <library name="daemons (v1.2.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/daemons-1.2.4/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/daemons-1.2.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase (v0.2.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.1/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.1/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="debase (v0.2.1, ruby-2.3.1-p112) [gem]">
@@ -400,16 +160,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
       </SOURCES>
     </library>
-    <library name="debase (v0.2.2.beta8, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.2.beta8/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.2.beta8/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.2.beta8/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-0.2.2.beta8/lib" />
-      </SOURCES>
-    </library>
     <library name="debase (v0.2.2.beta8, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta8/ext" />
@@ -420,20 +170,22 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta8/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta9, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
     <library name="debase-ruby_core_source (v0.9.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.9.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.9.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="debase-ruby_core_source (v0.9.9, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-ruby_core_source-0.9.9/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/debase-ruby_core_source-0.9.9/lib" />
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.0.0, ruby-2.3.1-p112) [gem]">
@@ -460,18 +212,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
-    <library name="diff-lcs (v1.2.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.2.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.2.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.2.5/autotest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.2.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.2.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.2.5/autotest" />
-      </SOURCES>
-    </library>
     <library name="diff-lcs (v1.2.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/bin" />
@@ -484,44 +224,16 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
-    <library name="diff-lcs (v1.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.3/autotest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/diff-lcs-1.3/autotest" />
-      </SOURCES>
-    </library>
     <library name="diff-lcs (v1.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
-      </SOURCES>
-    </library>
-    <library name="em-socksify (v0.3.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/em-socksify-0.3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/em-socksify-0.3.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="enumerable-lazy (v0.0.2, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/enumerable-lazy-0.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/enumerable-lazy-0.0.2/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/bin" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
     </library>
     <library name="enumerable-lazy (v0.0.2, ruby-2.3.1-p112) [gem]">
@@ -530,22 +242,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/enumerable-lazy-0.0.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="erubis (v2.7.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/contrib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/doc-api" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/benchmark" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/contrib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/doc-api" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
     <library name="erubis (v2.7.0, ruby-2.3.1-p112) [gem]">
@@ -564,22 +260,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
       </SOURCES>
     </library>
-    <library name="eventmachine (v1.2.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/java" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/java" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.1-x86-mingw32/rakelib" />
-      </SOURCES>
-    </library>
     <library name="eventmachine (v1.2.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.1-x86-mingw32/ext" />
@@ -596,48 +276,22 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.1-x86-mingw32/rakelib" />
       </SOURCES>
     </library>
-    <library name="eventmachine (v1.2.2, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/java" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/java" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/eventmachine-1.2.2-x86-mingw32/rakelib" />
-      </SOURCES>
-    </library>
     <library name="eventmachine (v1.2.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/java" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/rakelib" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.2" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/java" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/tests" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/rakelib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/java" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/rakelib" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.2" />
-      </SOURCES>
-    </library>
-    <library name="eventmachine_httpserver (v0.2.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine_httpserver-0.2.1/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine_httpserver-0.2.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine_httpserver-0.2.1/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine_httpserver-0.2.1/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/java" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/tests" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/eventmachine-1.2.2-x86-mingw32/rakelib" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.14, jruby-9.1.5.0-p0) [gem]">
@@ -646,20 +300,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ffi-1.9.14-java" />
-      </SOURCES>
-    </library>
-    <library name="ffi (v1.9.14, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/gen" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/libtest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/gen" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.14-x86-mingw32/libtest" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.14, ruby-2.3.1-p112) [gem]">
@@ -676,34 +316,20 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.14-x86-mingw32/libtest" />
       </SOURCES>
     </library>
-    <library name="ffi (v1.9.17, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/gen" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/libtest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/gen" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ffi-1.9.17-x86-mingw32/libtest" />
-      </SOURCES>
-    </library>
     <library name="ffi (v1.9.17, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/gen" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/libtest" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/gen" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/gen" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/libtest" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.17" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/gen" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ffi-1.9.17-x86-mingw32/libtest" />
       </SOURCES>
     </library>
     <library name="formatador (v0.2.5, jruby-9.1.5.0-p0) [gem]">
@@ -814,42 +440,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/guard-spork-2.1.0/lib" />
       </SOURCES>
     </library>
-    <library name="http_parser.rb (v0.6.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/bench" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/bench" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
-      </SOURCES>
-    </library>
-    <library name="httpclient (v2.8.3, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/httpclient-2.8.3/sample" />
-      </SOURCES>
-    </library>
-    <library name="i18n (v0.7.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.7.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.7.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.7.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.7.0/gemfiles" />
-      </SOURCES>
-    </library>
     <library name="i18n (v0.7.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.7.0/lib" />
@@ -860,32 +450,14 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
-    <library name="i18n (v0.8.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.8.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.8.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.8.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/i18n-0.8.0/gemfiles" />
-      </SOURCES>
-    </library>
     <library name="i18n (v0.8.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/gemfiles" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/gemfiles" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/gemfiles" />
-      </SOURCES>
-    </library>
-    <library name="inifile (v3.0.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/inifile-3.0.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/inifile-3.0.0/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/i18n-0.8.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.5, ruby-2.3.1-p112) [gem]">
@@ -974,50 +546,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/jruby-win32ole-0.8.5/nbproject" />
       </SOURCES>
     </library>
-    <library name="json (v2.0.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/data" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/java" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/tools" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/diagrams" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/references" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/data" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/java" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/tools" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/diagrams" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json-2.0.2/references" />
-      </SOURCES>
-    </library>
-    <library name="json_pure (v2.0.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/data" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/java" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/tools" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/diagrams" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/references" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/data" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/java" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/tests" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/tools" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/diagrams" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/json_pure-2.0.2/references" />
-      </SOURCES>
-    </library>
     <library name="listen (v3.1.5, jruby-9.1.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/listen-3.1.5/bin" />
@@ -1064,16 +592,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/magic_encoding-0.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="magic_encoding (v0.0.2, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/magic_encoding-0.0.2/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/magic_encoding-0.0.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/magic_encoding-0.0.2/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/magic_encoding-0.0.2/lib" />
-      </SOURCES>
-    </library>
     <library name="magic_encoding (v0.0.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/magic_encoding-0.0.2/bin" />
@@ -1084,14 +602,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/magic_encoding-0.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="mail (v2.6.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mail-2.6.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mail-2.6.4/lib" />
-      </SOURCES>
-    </library>
     <library name="mail (v2.6.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
@@ -1100,40 +610,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
-    <library name="mailfactory (v1.4.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mailfactory-1.4.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mailfactory-1.4.0/tests" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mailfactory-1.4.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mailfactory-1.4.0/tests" />
-      </SOURCES>
-    </library>
-    <library name="mailfactory (v1.4.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mailfactory-1.4.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mailfactory-1.4.0/tests" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mailfactory-1.4.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mailfactory-1.4.0/tests" />
-      </SOURCES>
-    </library>
     <library name="metaclass (v0.0.4, jruby-9.1.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/metaclass-0.0.4/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/metaclass-0.0.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="metaclass (v0.0.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/metaclass-0.0.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/metaclass-0.0.4/lib" />
       </SOURCES>
     </library>
     <library name="metaclass (v0.0.4, ruby-2.3.1-p112) [gem]">
@@ -1160,18 +642,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/method_source-0.8.2/lib" />
       </SOURCES>
     </library>
-    <library name="mime-types (v2.99.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-2.99.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-2.99.3/data" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-2.99.3/support" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-2.99.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-2.99.3/data" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-2.99.3/support" />
-      </SOURCES>
-    </library>
     <library name="mime-types (v2.99.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-2.99.3/lib" />
@@ -1182,58 +652,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-2.99.3/lib" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-2.99.3/data" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-2.99.3/support" />
-      </SOURCES>
-    </library>
-    <library name="mime-types (v3.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-3.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="mime-types (v3.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-3.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="mime-types-data (v3.2016.0521, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-data-3.2016.0521/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-data-3.2016.0521/data" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-data-3.2016.0521/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mime-types-data-3.2016.0521/data" />
-      </SOURCES>
-    </library>
-    <library name="mime-types-data (v3.2016.0521, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mime-types-data-3.2016.0521/data" />
-      </SOURCES>
-    </library>
-    <library name="mini_portile2 (v2.1.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mini_portile2-2.1.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="minitest (v5.10.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/minitest-5.10.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.10.1, ruby-2.3.1-p112) [gem]">
@@ -1250,14 +668,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/minitest-5.8.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="minitest (v5.9.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/minitest-5.9.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/minitest-5.9.1/lib" />
       </SOURCES>
     </library>
     <library name="mocha (v1.1.0, jruby-9.1.5.0-p0) [gem]">
@@ -1288,20 +698,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mocha-1.1.0/yard-templates" />
       </SOURCES>
     </library>
-    <library name="mocha (v1.2.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/gemfiles" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/yard-templates" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/gemfiles" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mocha-1.2.1/yard-templates" />
-      </SOURCES>
-    </library>
     <library name="mocha (v1.2.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/bin" />
@@ -1316,16 +712,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/mocha-1.2.1/yard-templates" />
       </SOURCES>
     </library>
-    <library name="moneta (v0.8.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/moneta-0.8.1/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/moneta-0.8.1/script" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/moneta-0.8.1/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/moneta-0.8.1/script" />
-      </SOURCES>
-    </library>
     <library name="moneta (v0.8.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/moneta-0.8.1/lib" />
@@ -1336,54 +722,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/moneta-0.8.1/script" />
       </SOURCES>
     </library>
-    <library name="msgpack (v0.7.6, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/bench" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/doclib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/bench" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/doclib" />
-      </SOURCES>
-    </library>
-    <library name="multi_json (v1.12.1, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/multi_json-1.12.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/multi_json-1.12.1/lib" />
-      </SOURCES>
-    </library>
     <library name="multi_json (v1.12.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="multi_xml (v0.6.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/multi_xml-0.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="mustermann19 (v0.4.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mustermann19-0.4.4/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mustermann19-0.4.4/bench" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mustermann19-0.4.4/mustermann" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mustermann19-0.4.4/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mustermann19-0.4.4/bench" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/mustermann19-0.4.4/mustermann" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
     <library name="mustermann19 (v0.4.4, ruby-2.3.1-p112) [gem]">
@@ -1414,52 +758,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="net-sftp (v2.1.2, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/net-sftp-2.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/net-sftp-2.1.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="net-sftp (v2.1.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-sftp-2.1.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="net-ssh (v2.9.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/net-ssh-2.9.4/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/net-ssh-2.9.4/support" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/net-ssh-2.9.4/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/net-ssh-2.9.4/support" />
-      </SOURCES>
-    </library>
-    <library name="net-ssh (v2.9.4, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-2.9.4/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-2.9.4/support" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-2.9.4/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-2.9.4/support" />
-      </SOURCES>
-    </library>
-    <library name="net-ssh (v3.2.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-3.2.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-3.2.0/support" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-3.2.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-ssh-3.2.0/support" />
-      </SOURCES>
-    </library>
     <library name="net-telnet (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
@@ -1468,16 +766,6 @@
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="network_interface (v0.0.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.1/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.1/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="notiffany (v0.1.1, jruby-9.1.5.0-p0) [gem]">
@@ -1500,28 +788,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/notiffany-0.1.1/images" />
       </SOURCES>
     </library>
-    <library name="padrino (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="padrino (v0.13.3.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-0.13.3.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="padrino-admin (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-admin-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-admin-0.13.3.3/lib" />
       </SOURCES>
     </library>
     <library name="padrino-admin (v0.13.3.3, ruby-2.3.1-p112) [gem]">
@@ -1532,30 +804,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-admin-0.13.3.3/lib" />
       </SOURCES>
     </library>
-    <library name="padrino-cache (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-cache-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-cache-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="padrino-cache (v0.13.3.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-cache-0.13.3.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-cache-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="padrino-core (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-core-0.13.3.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-core-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-core-0.13.3.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-core-0.13.3.3/lib" />
       </SOURCES>
     </library>
     <library name="padrino-core (v0.13.3.3, ruby-2.3.1-p112) [gem]">
@@ -1568,16 +822,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-core-0.13.3.3/lib" />
       </SOURCES>
     </library>
-    <library name="padrino-gen (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-gen-0.13.3.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-gen-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-gen-0.13.3.3/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-gen-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="padrino-gen (v0.13.3.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-gen-0.13.3.3/bin" />
@@ -1588,28 +832,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-gen-0.13.3.3/lib" />
       </SOURCES>
     </library>
-    <library name="padrino-helpers (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-helpers-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-helpers-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="padrino-helpers (v0.13.3.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-helpers-0.13.3.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-helpers-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="padrino-mailer (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-mailer-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-mailer-0.13.3.3/lib" />
       </SOURCES>
     </library>
     <library name="padrino-mailer (v0.13.3.3, ruby-2.3.1-p112) [gem]">
@@ -1620,30 +848,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-mailer-0.13.3.3/lib" />
       </SOURCES>
     </library>
-    <library name="padrino-support (v0.13.3.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-support-0.13.3.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/padrino-support-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
     <library name="padrino-support (v0.13.3.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-support-0.13.3.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/padrino-support-0.13.3.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="popup (v0.0.9, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/popup-0.0.9/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/popup-0.0.9/support" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/popup-0.0.9/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/popup-0.0.9/support" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.6, ruby-2.3.1-p112) [gem]">
@@ -1674,24 +884,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
-    <library name="pry-byebug (v3.4.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="public_suffix (v2.0.5, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/public_suffix-2.0.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/public_suffix-2.0.5/data" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/public_suffix-2.0.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/public_suffix-2.0.5/data" />
-      </SOURCES>
-    </library>
     <library name="rack (v1.6.5, jruby-9.1.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rack-1.6.5/bin" />
@@ -1704,20 +896,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rack-1.6.5/lib" />
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rack-1.6.5/contrib" />
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rack-1.6.5/example" />
-      </SOURCES>
-    </library>
-    <library name="rack (v1.6.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/contrib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/example" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/contrib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-1.6.5/example" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.5, ruby-2.3.1-p112) [gem]">
@@ -1742,28 +920,12 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rack-protection-1.5.3/lib" />
       </SOURCES>
     </library>
-    <library name="rack-protection (v1.5.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-protection-1.5.3/lib" />
-      </SOURCES>
-    </library>
     <library name="rack-protection (v1.5.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rack-protection-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rack-protection-1.5.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="rack-test (v0.6.3, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-test-0.6.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, ruby-2.3.1-p112) [gem]">
@@ -1794,18 +956,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
-    <library name="rake (v10.5.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-10.5.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-10.5.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-10.5.0/rakelib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-10.5.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-10.5.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-10.5.0/rakelib" />
-      </SOURCES>
-    </library>
     <library name="rake (v11.2.2, jruby-9.1.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rake-11.2.2/bin" />
@@ -1830,18 +980,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-11.2.2/lib" />
       </SOURCES>
     </library>
-    <library name="rake (v12.0.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rake-12.0.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rake-12.0.0/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rake-12.0.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rake-12.0.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rake-12.0.0/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rake-12.0.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rake (v12.0.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-12.0.0/bin" />
@@ -1852,16 +990,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-12.0.0/bin" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-12.0.0/exe" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rake-12.0.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rautomation (v0.17.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rautomation-0.17.0/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rautomation-0.17.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rautomation-0.17.0/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rautomation-0.17.0/lib" />
       </SOURCES>
     </library>
     <library name="rb-fchange (v0.0.6, jruby-9.1.5.0-p0) [gem]">
@@ -1964,14 +1092,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rspec-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec (v3.5.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-3.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-3.5.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec (v3.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rspec-3.5.0/lib" />
@@ -2000,16 +1120,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.3/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-core (v3.5.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-core-3.5.4/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-core-3.5.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-core-3.5.4/exe" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-core-3.5.4/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-core (v3.5.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rspec-core-3.5.4/exe" />
@@ -2028,14 +1138,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rspec-expectations-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-expectations (v3.5.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-expectations-3.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-expectations-3.5.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-expectations (v3.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.5.0/lib" />
@@ -2052,14 +1154,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rspec-mocks-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec-mocks (v3.5.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-mocks-3.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-mocks-3.5.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-mocks (v3.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.5.0/lib" />
@@ -2074,14 +1168,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/rspec-support-3.5.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-support (v3.5.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-support-3.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/rspec-support-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.5.0, ruby-2.3.1-p112) [gem]">
@@ -2114,18 +1200,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
-    <library name="ruby-debug-ide (v0.6.1.beta2, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ruby-debug-ide-0.6.1.beta2/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ruby-debug-ide-0.6.1.beta2/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
-      </SOURCES>
-    </library>
     <library name="ruby-debug-ide (v0.6.1.beta2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta2/bin" />
@@ -2138,16 +1212,16 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta2/lib" />
       </SOURCES>
     </library>
-    <library name="ruby-wmi (v0.4.0, ruby-2.3.1-p112) [gem]">
+    <library name="ruby-debug-ide (v0.6.1.beta4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-wmi-0.4.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-wmi-0.4.0/web" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-wmi-0.4.0/samples" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-wmi-0.4.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-wmi-0.4.0/web" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-wmi-0.4.0/samples" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta4/lib" />
       </SOURCES>
     </library>
     <library name="ruby_dep (v1.4.0, jruby-9.1.5.0-p0) [gem]">
@@ -2164,32 +1238,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ruby_dep-1.4.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rubyzip (v1.2.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.0/samples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rubyzip-1.2.0/samples" />
-      </SOURCES>
-    </library>
-    <library name="selenium-webdriver (v3.0.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.0.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/selenium-webdriver-3.0.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="sf-pc-device-api (v0.0.8, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sf-pc-device-api-0.0.8/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sf-pc-device-api-0.0.8/lib" />
       </SOURCES>
     </library>
     <library name="shellany (v0.0.1, jruby-9.1.5.0-p0) [gem]">
@@ -2216,14 +1264,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/sinatra-1.4.7/lib" />
       </SOURCES>
     </library>
-    <library name="sinatra (v1.4.7, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sinatra-1.4.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sinatra-1.4.7/lib" />
-      </SOURCES>
-    </library>
     <library name="sinatra (v1.4.7, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sinatra-1.4.7/lib" />
@@ -2232,20 +1272,12 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sinatra-1.4.7/lib" />
       </SOURCES>
     </library>
-    <library name="sinatra (v1.4.8, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sinatra-1.4.8/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sinatra-1.4.8/lib" />
-      </SOURCES>
-    </library>
     <library name="sinatra (v1.4.8, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sinatra-1.4.8/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sinatra-1.4.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sinatra-1.4.8/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sinatra-1.4.8/lib" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, jruby-9.1.5.0-p0) [gem]">
@@ -2300,20 +1332,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/spork-0.9.2/features" />
       </SOURCES>
     </library>
-    <library name="sqlite3 (v1.3.12, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/faq" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/tasks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/faq" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.12-x86-mingw32/tasks" />
-      </SOURCES>
-    </library>
     <library name="sqlite3 (v1.3.12, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.12-x86-mingw32/ext" />
@@ -2328,92 +1346,20 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.12-x86-mingw32/tasks" />
       </SOURCES>
     </library>
-    <library name="sqlite3 (v1.3.13, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/faq" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/tasks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/faq" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/sqlite3-1.3.13-x86-mingw32/tasks" />
-      </SOURCES>
-    </library>
     <library name="sqlite3 (v1.3.13, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/faq" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/tasks" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.13" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/faq" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/faq" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/tasks" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/sqlite3/1.3.13" />
-      </SOURCES>
-    </library>
-    <library name="state_machine (v1.2.0, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/state_machine-1.2.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/state_machine-1.2.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/state_machine-1.2.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/state_machine-1.2.0/gemfiles" />
-      </SOURCES>
-    </library>
-    <library name="sys-proctable (v0.9.9, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-proctable-0.9.9-universal-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-proctable-0.9.9-universal-mingw32/benchmarks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-proctable-0.9.9-universal-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-proctable-0.9.9-universal-mingw32/benchmarks" />
-      </SOURCES>
-    </library>
-    <library name="sys-uname (v0.9.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-uname-0.9.2-universal-mingw32/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-uname-0.9.2-universal-mingw32/lib" />
-      </SOURCES>
-    </library>
-    <library name="sys-uptime (v0.7.1, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-uptime-0.7.1-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-uptime-0.7.1-x86-mingw32/certs" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-uptime-0.7.1-x86-mingw32/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sys-uptime-0.7.1-x86-mingw32/certs" />
-      </SOURCES>
-    </library>
-    <library name="test-unit (v2.5.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/test-unit-2.5.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/test-unit-2.5.5/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/test-unit-2.5.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/test-unit-2.5.5/sample" />
-      </SOURCES>
-    </library>
-    <library name="test-unit (v2.5.5, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/test-unit-2.5.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/test-unit-2.5.5/sample" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/test-unit-2.5.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/test-unit-2.5.5/sample" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/ext" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/faq" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.13-x86-mingw32/tasks" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.1.5, ruby-2.3.1-p112) [gem]">
@@ -2424,20 +1370,6 @@
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/lib" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/test-unit-3.1.5/sample" />
-      </SOURCES>
-    </library>
-    <library name="thin (v1.7.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/example" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thin-1.7.0/example" />
       </SOURCES>
     </library>
     <library name="thin (v1.7.0, ruby-2.3.1-p112) [gem]">
@@ -2476,16 +1408,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
-    <library name="thor (v0.19.4, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thor-0.19.4/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thor-0.19.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thor-0.19.4/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thor-0.19.4/lib" />
-      </SOURCES>
-    </library>
     <library name="thor (v0.19.4, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
@@ -2494,28 +1416,6 @@
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thor-0.19.4/bin" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thor-0.19.4/lib" />
-      </SOURCES>
-    </library>
-    <library name="thread (v0.2.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thread-0.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/thread-0.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="thread_safe (v0.3.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/tasks" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/yard-template" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/tasks" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/thread_safe-0.3.5/yard-template" />
       </SOURCES>
     </library>
     <library name="thread_safe (v0.3.5, ruby-2.3.1-p112) [gem]">
@@ -2544,18 +1444,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/tilt-2.0.5/man" />
       </SOURCES>
     </library>
-    <library name="tilt (v2.0.5, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.5/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.5/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.5/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.5/man" />
-      </SOURCES>
-    </library>
     <library name="tilt (v2.0.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/bin" />
@@ -2568,52 +1456,24 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.5/man" />
       </SOURCES>
     </library>
-    <library name="tilt (v2.0.6, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.6/man" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tilt-2.0.6/man" />
-      </SOURCES>
-    </library>
     <library name="tilt (v2.0.6, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/man" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/bin" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/man" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/man" />
-      </SOURCES>
-    </library>
-    <library name="tzinfo (v0.3.52, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tzinfo-0.3.52/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tzinfo-0.3.52/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/bin" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tilt-2.0.6/man" />
       </SOURCES>
     </library>
     <library name="tzinfo (v0.3.52, ruby-2.3.1-p112) [gem]">
       <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tzinfo-0.3.52/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tzinfo-0.3.52/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tzinfo-0.3.52/lib" />
-      </SOURCES>
-    </library>
-    <library name="tzinfo (v1.2.2, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tzinfo-1.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/tzinfo-1.2.2/lib" />
+        <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tzinfo-0.3.52/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, ruby-2.3.1-p112) [gem]">
@@ -2624,26 +1484,6 @@
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/tzinfo-1.2.2/lib" />
       </SOURCES>
     </library>
-    <library name="watir (v6.0.2, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir-6.0.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir-6.0.2/support" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir-6.0.2/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir-6.0.2/support" />
-      </SOURCES>
-    </library>
-    <library name="watir_ext (v0.0.8, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir_ext-0.0.8/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir_ext-0.0.8/.idea" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir_ext-0.0.8/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/watir_ext-0.0.8/.idea" />
-      </SOURCES>
-    </library>
     <library name="wdm (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/ext" />
@@ -2652,24 +1492,6 @@
       <SOURCES>
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="websocket (v1.2.3, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/websocket-1.2.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/websocket-1.2.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="win32-process (v0.8.3, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-process-0.8.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-process-0.8.3/certs" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-process-0.8.3/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-process-0.8.3/certs" />
       </SOURCES>
     </library>
     <library name="woolen_common (v0.0.5, ruby-2.3.1-p112) [gem]">
@@ -2692,16 +1514,6 @@
         <root url="file://E:/running/jruby-9.1.5.0/lib/ruby/gems/shared/gems/woolen_common-0.0.6/lib" />
       </SOURCES>
     </library>
-    <library name="woolen_common (v0.0.6, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/woolen_common-0.0.6/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/woolen_common-0.0.6/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/woolen_common-0.0.6/ext" />
-        <root url="file://E:/running/green_ruby/rb_2.0.0/ruby/lib/ruby/gems/2.0.0/gems/woolen_common-0.0.6/lib" />
-      </SOURCES>
-    </library>
     <library name="woolen_common (v0.0.6, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/woolen_common/0.0.6" />
@@ -2712,28 +1524,6 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/woolen_common/0.0.6" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/woolen_common-0.0.6/ext" />
         <root url="file://E:/running/green_ruby/ruby_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/woolen_common-0.0.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="ya2yaml (v0.31, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ya2yaml-0.31/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/ya2yaml-0.31/lib" />
-      </SOURCES>
-    </library>
-    <library name="yard (v0.8.7.6, ruby-2.3.1-p112) [gem]">
-      <CLASSES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/templates" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/benchmarks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/bin" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/lib" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/templates" />
-        <root url="file://E:/running/green_ruby/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/yard-0.8.7.6/benchmarks" />
       </SOURCES>
     </library>
   </component>
