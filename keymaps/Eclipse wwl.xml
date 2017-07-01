@@ -1,0 +1,19 @@
+<keymap version="1" name="Eclipse wwl" parent="Eclipse">
+  <action id="AddToFavoritesPopup" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="IncrementalSearch" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
+</keymap>
