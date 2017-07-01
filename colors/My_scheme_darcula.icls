@@ -1,7 +1,8 @@
 <scheme name="My_scheme_darcula" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="CONSOLE_FONT_NAME" value="WenQuanYi Micro Hei Mono" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="WenQuanYi Micro Hei" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_NAME" value="WenQuanYi Micro Hei Mono" />
@@ -1041,6 +1042,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="REST.BOLD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="a3a08" />
@@ -1054,6 +1060,11 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="15463c" />
+      </value>
+    </option>
+    <option name="REST.ITALIC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="RHTML_COMMENT_ID">
