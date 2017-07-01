@@ -1,5 +1,9 @@
 <keymap version="1" name="Eclipse wwl" parent="Eclipse">
   <action id="AddToFavoritesPopup" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
