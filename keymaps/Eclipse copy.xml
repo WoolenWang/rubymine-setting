@@ -2,7 +2,11 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
   <action id="org.jetbrains.plugins.ruby.tasks.rake.actions.RakeTasksPopupAction">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
