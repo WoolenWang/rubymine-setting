@@ -554,6 +554,22 @@
         <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1.beta2/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.7.0.beta4, jruby-9.1.5.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/bin" />
+        <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/ext" />
+      </excluded>
+    </library>
     <library name="ruby_dep (v1.4.0, jruby-9.1.5.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/Documents/git/code_helper/3part/ruby/jruby-9.1.5.0/lib/ruby/gems/shared/gems/ruby_dep-1.4.0/lib" />
