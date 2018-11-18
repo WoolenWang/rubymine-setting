@@ -1,4 +1,7 @@
 <code_scheme name="Default (4)" version="173">
+  <Ruby>
+    <option name="INDENT_WHEN_CASES" value="true" />
+  </Ruby>
   <codeStyleSettings language="CoffeeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
