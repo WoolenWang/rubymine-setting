@@ -2501,6 +2501,25 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="nokogiri (v1.10.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/ext" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/ext" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/ext" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/patches" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.8.5, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/bin" />
