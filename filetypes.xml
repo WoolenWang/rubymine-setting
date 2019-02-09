@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="task" type="Ruby" />
     </extensionMap>
   </component>
 </application>
