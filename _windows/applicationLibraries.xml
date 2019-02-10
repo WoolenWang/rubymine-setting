@@ -22,6 +22,32 @@
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/addressable-2.3.8/website" />
       </excluded>
     </library>
+    <library name="allure-rspec (v0.8.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-rspec-0.8.0/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-rspec-0.8.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-rspec-0.8.0/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-rspec-0.8.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-rspec-0.8.0/spec" />
+      </excluded>
+    </library>
+    <library name="allure-ruby-adaptor-api (v0.7.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-ruby-adaptor-api-0.7.0/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-ruby-adaptor-api-0.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-ruby-adaptor-api-0.7.0/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-ruby-adaptor-api-0.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/allure-ruby-adaptor-api-0.7.0/spec" />
+      </excluded>
+    </library>
     <library name="arr-pm (v0.0.10, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/arr-pm-0.0.10/lib" />
@@ -154,6 +180,19 @@
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/backports-3.11.4/test" />
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/backports-3.11.4/set_version" />
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/backports-3.11.4/frozen_old_spec" />
+      </excluded>
+    </library>
+    <library name="belzebuth (v0.2.3, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/belzebuth-0.2.3/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/belzebuth-0.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/belzebuth-0.2.3/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/belzebuth-0.2.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/belzebuth-0.2.3/bin" />
       </excluded>
     </library>
     <library name="bindata (v2.4.4, jruby-9.1.13.0-p0) [gem]" type="ruby">
@@ -2244,6 +2283,19 @@
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/lumberjack-1.0.10/spec" />
       </excluded>
     </library>
+    <library name="macaddr (v1.7.1, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/macaddr-1.7.1/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/macaddr-1.7.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/macaddr-1.7.1/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/macaddr-1.7.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/macaddr-1.7.1/test" />
+      </excluded>
+    </library>
     <library name="magic_encoding (v0.0.2, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/magic_encoding-0.0.2/bin" />
@@ -2364,6 +2416,22 @@
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mime-types-2.6.2/docs" />
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mime-types-2.6.2/test" />
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mime-types-2.6.2/support" />
+      </excluded>
+    </library>
+    <library name="mimemagic (v0.3.3, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/test" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/test" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/test" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/mimemagic-0.3.3/script" />
       </excluded>
     </library>
     <library name="minitar (v0.6.1, jruby-9.1.13.0-p0) [gem]" type="ruby">
@@ -3159,6 +3227,22 @@
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/stud-0.0.23/lib" />
       </SOURCES>
     </library>
+    <library name="systemu (v2.6.5, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/test" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/test" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/test" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/systemu-2.6.5/samples" />
+      </excluded>
+    </library>
     <library name="test-unit (v3.1.1, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
@@ -3288,6 +3372,22 @@
       </SOURCES>
       <excluded>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/unf-0.1.4-java/test" />
+      </excluded>
+    </library>
+    <library name="uuid (v2.3.9, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/bin" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/uuid-2.3.9/test" />
       </excluded>
     </library>
     <library name="webhdfs (v0.8.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
