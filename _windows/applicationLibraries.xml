@@ -2578,17 +2578,17 @@
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-sftp-2.1.2/test" />
       </excluded>
     </library>
-    <library name="net-ssh (v5.1.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
+    <library name="net-ssh (v4.2.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-5.1.0/lib" />
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-5.1.0/support" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-4.2.0/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-4.2.0/support" />
       </CLASSES>
       <SOURCES>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-5.1.0/lib" />
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-5.1.0/support" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-4.2.0/lib" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-4.2.0/support" />
       </SOURCES>
       <excluded>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-5.1.0/support" />
+        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/net-ssh-4.2.0/support" />
       </excluded>
     </library>
     <library name="net-telnet (v0.1.1, jruby-9.1.13.0-p0) [gem]" type="ruby">
