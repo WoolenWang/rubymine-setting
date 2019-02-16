@@ -1,13 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="activemodel (v4.2.11, jruby-9.1.13.0-p0) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activemodel-4.2.11/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activemodel-4.2.11/lib" />
-      </SOURCES>
-    </library>
     <library name="activemodel (v5.2.2, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activemodel-5.2.2/lib" />
@@ -15,19 +7,6 @@
       <SOURCES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activemodel-5.2.2/lib" />
       </SOURCES>
-    </library>
-    <library name="activerecord (v4.2.11, jruby-9.1.13.0-p0) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activerecord-4.2.11/lib" />
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activerecord-4.2.11/examples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activerecord-4.2.11/lib" />
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activerecord-4.2.11/examples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/activerecord-4.2.11/examples" />
-      </excluded>
     </library>
     <library name="activerecord (v5.2.2, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
