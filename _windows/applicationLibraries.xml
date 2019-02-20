@@ -3238,6 +3238,19 @@
         <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-2.0.6/example" />
       </excluded>
     </library>
+    <library name="rack-parser (v0.7.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-parser-0.7.0/lib" />
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-parser-0.7.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-parser-0.7.0/lib" />
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-parser-0.7.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-parser-0.7.0/spec" />
+      </excluded>
+    </library>
     <library name="rack-protection (v1.5.5, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-protection-1.5.5/lib" />
