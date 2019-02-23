@@ -2897,34 +2897,6 @@
         <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.10.0-java/patches" />
       </excluded>
     </library>
-    <library name="nokogiri (v1.8.5, jruby-9.1.13.0-p0) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/bin" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/ext" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/lib" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/test" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/tasks" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/patches" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/suppressions" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/bin" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/ext" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/lib" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/test" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/tasks" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/patches" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/suppressions" />
-      </SOURCES>
-      <excluded>
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/bin" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/ext" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/test" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/tasks" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/patches" />
-        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/nokogiri-1.8.5-java/suppressions" />
-      </excluded>
-    </library>
     <library name="notiffany (v0.1.1, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/notiffany-0.1.1/lib" />
@@ -3236,6 +3208,19 @@
         <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-2.0.6/test" />
         <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-2.0.6/contrib" />
         <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-2.0.6/example" />
+      </excluded>
+    </library>
+    <library name="rack-cors (v1.0.2, jruby-9.1.13.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-cors-1.0.2/lib" />
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-cors-1.0.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-cors-1.0.2/lib" />
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-cors-1.0.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/source/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rack-cors-1.0.2/test" />
       </excluded>
     </library>
     <library name="rack-parser (v0.7.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
