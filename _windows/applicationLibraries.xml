@@ -727,6 +727,46 @@
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/crack-0.4.3/script" />
       </excluded>
     </library>
+    <library name="debase (v0.2.2, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.2/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.2.3.beta5, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-0.2.3.beta5/test" />
+      </excluded>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.4, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.4/lib" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.0.0, ruby-2.3.1-p112) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/did_you_mean-1.0.0/doc" />
@@ -5091,6 +5131,22 @@
       </SOURCES>
       <excluded>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/ruby-debug-base-0.10.6-java/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.7.0.beta4, jruby-9.1.13.0-p0) [gem]" type="ruby">
