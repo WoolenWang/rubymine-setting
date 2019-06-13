@@ -119,6 +119,22 @@
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/atm_keyword_parser-0.0.5/spec" />
       </excluded>
     </library>
+    <library name="au3 (v0.1.2, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/au3-0.1.2/lib" />
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/au3-0.1.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/au3-0.1.2/lib" />
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/au3-0.1.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/au3-0.1.2/test" />
+      </excluded>
+    </library>
     <library name="bcrypt (v3.1.12, ruby-2.3.1-p112) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -1152,7 +1168,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -1160,7 +1175,6 @@
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -1650,7 +1664,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.10" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-1.2.10-x86-mingw32/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-1.2.10-x86-mingw32/lib" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-1.2.10-x86-mingw32/spec" />
@@ -1658,7 +1671,6 @@
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-1.2.10-x86-mingw32/doclib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.2.10" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-1.2.10-x86-mingw32/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-1.2.10-x86-mingw32/lib" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/msgpack-1.2.10-x86-mingw32/spec" />
@@ -1807,14 +1819,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/network_interface/0.0.2" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/bin" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/lib" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/network_interface/0.0.2" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/bin" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/lib" />
@@ -1853,7 +1863,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/bin" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/lib" />
@@ -1863,7 +1872,6 @@
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/bin" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/lib" />
@@ -2324,13 +2332,11 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.3/lib" />
@@ -3209,12 +3215,10 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/wdm/0.1.1" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/wdm/0.1.1" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/ext" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/lib" />
       </SOURCES>
@@ -3267,6 +3271,25 @@
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/whenever-0.11.0/bin" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/whenever-0.11.0/test" />
         <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/whenever-0.11.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="win32-api (v1.8.0, ruby-2.3.1-p112) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/ext" />
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/lib" />
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/ext" />
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/lib" />
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/ext" />
+        <root url="file://D:/running/rb_2.3.1_ok/rb_2.3.1/ruby/lib/ruby/gems/2.3.0/gems/win32-api-1.8.0-universal-mingw32/test" />
       </excluded>
     </library>
     <library name="woolen_common (v0.0.14, ruby-2.3.1-p112) [gem]" type="rubylib">
