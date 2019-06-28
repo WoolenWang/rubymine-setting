@@ -1128,6 +1128,19 @@
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ffi-1.9.18-x86-mingw32/libtest" />
       </excluded>
     </library>
+    <library name="ffi (v1.9.23, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ffi-1.9.23-x86-mingw32/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ffi-1.9.23-x86-mingw32/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ffi-1.9.23-x86-mingw32/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ffi-1.9.23-x86-mingw32/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/ffi-1.9.23-x86-mingw32/samples" />
+      </excluded>
+    </library>
     <library name="ffi (v1.9.25, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
@@ -1460,6 +1473,19 @@
       </SOURCES>
       <excluded>
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/hashdiff-0.3.9/spec" />
+      </excluded>
+    </library>
+    <library name="hashdiff (v0.4.0, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/hashdiff-0.4.0/spec" />
       </excluded>
     </library>
     <library name="hitimes (v1.3.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
@@ -3319,6 +3345,19 @@
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/macaddr-1.7.1/test" />
       </excluded>
     </library>
+    <library name="macaddr (v1.7.2, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/macaddr-1.7.2/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/macaddr-1.7.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/macaddr-1.7.2/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/macaddr-1.7.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/macaddr-1.7.2/test" />
+      </excluded>
+    </library>
     <library name="magic_encoding (v0.0.2, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/magic_encoding-0.0.2/bin" />
@@ -3834,6 +3873,30 @@
       </SOURCES>
       <excluded>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/msgpack-1.2.4-java/spec" />
+      </excluded>
+    </library>
+    <library name="msgpack (v1.3.0, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.3.0" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/spec" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/bench" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/doclib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/1.3.0" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/lib" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/spec" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/bench" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/doclib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/ext" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/spec" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/bench" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-1.3.0-x86-mingw32/doclib" />
       </excluded>
     </library>
     <library name="multi_json (v1.13.1, jruby-9.1.13.0-p0) [gem]" type="ruby">
@@ -5048,6 +5111,19 @@
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-core-3.8.0/exe" />
       </excluded>
     </library>
+    <library name="rspec-core (v3.8.1, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-core-3.8.1/exe" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-core-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-core-3.8.1/exe" />
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-core-3.8.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-core-3.8.1/exe" />
+      </excluded>
+    </library>
     <library name="rspec-expectations (v3.5.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rspec-expectations-3.5.0/lib" />
@@ -5070,6 +5146,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.8.4, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-expectations-3.8.4/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.5.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
@@ -5096,6 +5180,14 @@
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-mocks (v3.8.1, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-mocks-3.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.5.0, jruby-9.1.13.0-p0) [gem]" type="ruby">
       <CLASSES>
         <root url="file://D:/git/code_helper/3part/ruby/logstash-6.5.1/vendor/jruby/lib/ruby/gems/shared/gems/rspec-support-3.5.0/lib" />
@@ -5118,6 +5210,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-support-3.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.8.2, ruby-2.3.1-p112) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-support-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://D:/tools/atr/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/rspec-support-3.8.2/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-base (v0.10.6, jruby-9.1.13.0-p0) [gem]" type="ruby">
