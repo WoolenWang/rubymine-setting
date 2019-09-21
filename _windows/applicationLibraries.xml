@@ -640,6 +640,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -647,6 +648,7 @@
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/http_parser.rb-0.6.0/spec" />
@@ -988,6 +990,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/0.7.6" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/lib" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/spec" />
@@ -995,6 +998,7 @@
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/msgpack/0.7.6" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/lib" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/msgpack-0.7.6-x86-mingw32/spec" />
@@ -1083,12 +1087,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/network_interface/0.0.2" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/bin" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/lib" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/network_interface/0.0.2" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/bin" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/network_interface-0.0.2/lib" />
@@ -1105,6 +1111,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/bin" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/lib" />
@@ -1114,6 +1121,7 @@
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.2" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/bin" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/nokogiri-1.8.2-x86-mingw32/lib" />
@@ -2077,10 +2085,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/wdm/0.1.1" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/wdm/0.1.1" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/ext" />
         <root url="file://D:/tools/sft_tool/mingw32/lib/ruby/gems/2.3.0/gems/wdm-0.1.1/lib" />
       </SOURCES>
